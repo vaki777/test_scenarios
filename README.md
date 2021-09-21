@@ -6,5 +6,5 @@
 
 Test suites:
 
-* [Registration](registration.md)
-* [Login](login.md)
+* [Registration](registration.md) - [image](https://imgbb.com/VHMJ4Bm)
+* [Login](login.md) - [image](https://imgbb.com/fNjwsFp)
