@@ -27,3 +27,63 @@
 | Test environment | Web |
 | Actual results |  |
 | Status | New (ready to test) |
+
+| Title | Login with username and missing password |
+|---|---|
+| Precondition | |
+| Steps | Enter username and click on button "Sign in" |
+| Expected results | Error message that password is missing is shown  |
+| Test scenario | Login |
+| Test environment | Web |
+| Actual results |  |
+| Status | New (ready to test) |
+
+| Title | Login with password and missing username |
+|---|---|
+| Precondition | |
+| Steps | Enter password and click on button "Sign in" |
+| Expected results | Error message that username is missing is shown  |
+| Test scenario | Login |
+| Test environment | Web |
+| Actual results |  |
+| Status | New (ready to test) |
+
+| Title | Login with missing username and missing password|
+|---|---|
+| Precondition | |
+| Steps | Click on button "Sign in" |
+| Expected results | Error message that both username and password are missing is shown  |
+| Test scenario | Login |
+| Test environment | Web |
+| Actual results |  |
+| Status | New (ready to test) |
+
+| Title | Login with invalid credentials|
+|---|---|
+| Precondition | |
+| Steps | Enter invalid credentials and click on button "Sign in" |
+| Expected results | Error message that entered credentials are not valid is shown  |
+| Test scenario | Login |
+| Test environment | Web |
+| Actual results |  |
+| Status | New (ready to test) |
+
+| Title | Login with invalid Facebook credentials|
+|---|---|
+| Precondition | |
+| Steps | Click on button "Facebook" and enter invalid Facebook credentials|
+| Expected results | Error message that entered facebook credentials are not valid is shown  |
+| Test scenario | Login |
+| Test environment | Web |
+| Actual results |  |
+| Status | New (ready to test) |
+
+| Title | Login with invalid Google credentials|
+|---|---|
+| Precondition | |
+| Steps | Click on button "Google" and enter invalid Google credentials|
+| Expected results | Error message that entered google credentials are not valid is shown  |
+| Test scenario | Login |
+| Test environment | Web |
+| Actual results |  |
+| Status | New (ready to test) |
